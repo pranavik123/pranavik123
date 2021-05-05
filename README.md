@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranavik123
-- 👀 I’m interested in coding.
+- 👀 I’m interested in developing new things through coding. I like to learn new things.
 - 🌱 I’m currently a final year student at CMR Institute of Technolofy
 - 📫 How to reach me :-pranavi.k2110@gmail.com
 
