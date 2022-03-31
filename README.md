@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranavik123
 - 👀 I’m interested in developing new things through coding. I like to learn new things.
-- 🌱 I’m currently a final year student at CMR Institute of Technolofy
+- 🌱 I have completed my graduation in CMRIT, Hyderabad.
 - 📫 How to reach me :-pranavi.k2110@gmail.com
 
 <!---
