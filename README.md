@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @pranavik123
 - 👀 I’m interested in developing new things through coding. I like to learn new things.
+- Currently pursuing Master's in Computer Science at George Mason University, Fairfax, VA.
 - 🌱 I have completed my graduation in CMRIT, Hyderabad.
 - 📫 How to reach me :-pranavi.k2110@gmail.com
 
