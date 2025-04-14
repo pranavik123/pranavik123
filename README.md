@@ -1,6 +1,6 @@
 # PRANAVI KAMAVARAPU
 
-📍 Fairfax, VA, USA (Open to Relocation)  
+📍 New Jersey, USA (Open to Relocation)  
 📫 [pranavikamavarapu.cs@gmail.com](mailto:pranavikamavarapu.cs@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/pranavik/) | [GitHub](https://github.com/pranavik123)  
 
