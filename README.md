@@ -1,92 +1,65 @@
-# PRANAVI KAMAVARAPU
+# 👋 Hey there, I'm Pranavi Kamavarapu!
 
-📍 New Jersey, USA (Open to Relocation)  
-📫 [pranavikamavarapu.cs@gmail.com](mailto:pranavikamavarapu.cs@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/pranavik/) | [GitHub](https://github.com/pranavik123)  
+🎓 CS Grad Student @ George Mason University (Graduating May 2025)  
+💼 Ex-Hitachi Vantara | GTA at GMU | Ex-Acara Systems  
+🌍 Based in Fairfax, VA | Open to Full-Time SWE roles (Spring/Summer 2025)  
 
----
+I’m a passionate Full Stack Developer with 2+ years of experience in building scalable applications using Java, Spring Boot, ReactJS, and Python. I’ve worked on everything from building microservices to creating intelligent assistants powered by OpenAI — and I absolutely love projects that blend clean architecture with a bit of ✨ AI magic.
 
-## 🎓 Education
-
-### **George Mason University, Fairfax, VA**  
-**Master of Science in Computer Science** *(Expected May 2025)*  
-- GPA: 3.6/4.0  
-- Relevant Courses: User Interface Design and Development, Software for WWW, Analysis of Algorithms  
-
-### **Jawaharlal Nehru Technological University, Hyderabad, India**  
-**Bachelor of Technology in Computer Science and Engineering** *(August 2021)*  
-- GPA: 3.8/4.0  
-- Relevant Courses: Analysis of Algorithms, Database Systems, Operating Systems  
+I enjoy solving real-world problems, collaborating in Agile teams, and creating tools that help others learn or work more efficiently. When I’m not coding, you’ll find me mentoring juniors, diving into security projects, or exploring GenAI workflows.
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Technologies I Work With
 
-- **Languages & Frameworks:** Java, JavaScript, TypeScript, Python, C/C++, SQL, PL/SQL, Spring Boot, Node.js, Express, Flask  
-- **Frontend Technologies:** ReactJS, Redux, Next.js, Angular, Vue.js, Tailwind CSS, OpenCV  
-- **Backend & Database:** RESTful APIs, GraphQL, Microservices Architecture, Oracle, PostgreSQL, Redis, Apache Kafka  
-- **DevOps & Cloud Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI, AWS (ECS, Lambda, S3, DynamoDB), OAuth 2.0, JWT, Git, SVN, RBAC  
+**Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=flat&logo=postgresql&logoColor=white)
 
----
+**Frameworks & Libraries**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## 💼 Work Experience
-
-### **George Mason University, Fairfax, VA** *(Aug 2024 – Present)*  
-**Graduate Teaching Assistant** *(ReactJS, Tailwind CSS, Node.js, Express, GraphQL)*  
-- Designed an OS simulation in ReactJS with real-time state management for enhanced visualization of system processes.  
-- Developed interactive data visualizations using Tailwind CSS to illustrate OS concepts such as paging and CPU scheduling.  
-- Optimized React components and backend services to improve performance and API response times.  
-- Built an API layer with Node.js and Express, integrating GraphQL for efficient data-driven UI interactions.  
-
-### **Hitachi Vantara Software Pvt Ltd, Remote** *(July 2021 – July 2023)*  
-**Associate Software Engineer** *(Spring Boot, React, Redux, OAuth2, JWT, Oracle SQL, Jenkins, GitLab CI, Agile, Scrum, Git)*  
-- Developed scalable microservices using Spring Boot, ensuring high availability and clean enterprise architecture.  
-- Built responsive UI components in React with Redux, improving performance and dynamic data-driven user experiences.  
-- Designed RESTful APIs with OAuth2 and JWT for secure authentication and communication.  
-- Optimized Oracle SQL queries with indexing and tuning techniques to enhance database performance.  
-- Automated CI/CD pipelines using Jenkins and GitLab CI for faster and more reliable deployments.  
-- Collaborated in Agile Scrum teams, managing Git version control, sprint planning, and retrospectives.  
-
-### **Netcracker Technology Solutions Pvt Ltd, Remote** *(Mar 2021 – July 2021)*  
-**Software Development Engineer Intern** *(Java, Oracle, PostgreSQL, Kafka, Jenkins, Docker, Agile, SOLID Principles)*  
-- Developed a Java-based data migration tool for seamless Oracle-to-PostgreSQL consistency.  
-- Implemented Kafka producers and consumers for event-driven streaming and microservices.  
-- Automated CI/CD pipelines with Jenkins and Docker, reducing manual deployment efforts.  
-- Designed optimized indexing and query caching strategies, significantly improving query execution times.  
-- Applied SOLID principles and refactored legacy code to improve maintainability and scalability.  
-
-### **Virtusa Consulting Services Pvt Ltd, Remote** *(June 2020 – Feb 2021)*  
-**Software Development Engineer Intern** *(Java, Spring Boot, Angular, GitLab, Redis, Docker, Agile, Scrum)*  
-- Developed a Java microservices application to migrate 1K+ Confluence pages to GitLab.  
-- Designed and optimized RESTful APIs with Spring Boot for high availability and scalability.  
-- Built responsive UI components in Angular, integrating seamlessly with backend services.  
-- Optimized Redis data structures for high-performance data storage and retrieval.  
-- Contributed to Agile sprints with code reviews, sprint planning, and stand-ups.  
+**Cloud & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-## 🔬 Projects
+## 🚀 Featured Projects
 
-### **E-commerce Backend Application** *(Spring Boot, REST API, OAuth 2.0, JWT, Microservices Architecture)*  
-- Developed a Spring Boot microservices architecture for a scalable e-commerce platform.  
-- Integrated OAuth 2.0 and JWT authentication for secure role-based access control.  
-- [GitHub Repository](https://github.com/pranavik123/Ecommerce_BackEnd)  
+🔹 **[Expense Tracker](https://github.com/pranavik123/expense-tracker)**  
+`ReactJS + Django + OpenAI` — A personal finance assistant that analyzes spending habits and offers smart suggestions using GPT-4.
 
-### **AI Code Review Assistant** *(Python, Llama, LangChain, FastAPI, ReactJS)*  
-- Engineered an AI-driven system for automated code review with real-time insights.  
-- Developed an interactive UI in ReactJS with syntax-aware annotations.  
-- [GitHub Repository](https://github.com/pranavik123/AI_Code_Review)  
+🔹 **[OS Simulation Tool](https://pranavik123.github.io/welcome/)**  
+`ReactJS + Tailwind` — Visualizes concepts like paging & CPU scheduling interactively. Used in classroom instruction at GMU.
 
----
-
-## 📜 Certifications
-
-- **AWS Certified Solutions Architect – Associate** *(Amazon Web Services)*  
-  - [Verification Link](https://cp.certmetrics.com/amazon/en/public/verify/credential/bf41f9f77dd24911851baad5e65c5755)  
-- **Oracle APEX Cloud Developer Certified Professional** *(Oracle University)*  
-- **HTML, CSS, and JavaScript for Web Developers** *(Johns Hopkins University, Coursera)*  
-  - [Certificate](https://www.coursera.org/account/accomplishments/verify/6JSBS3P77XSM)  
+🔹 **[AI-Powered Study Assistant](#)** *(Coming soon)*  
+`Spring Boot + React + OpenAI` — Auto-generates quizzes, summaries, and flashcards from lecture notes for personalized learning.
 
 ---
 
-This Markdown format preserves the structure and readability of your resume. Let me know if you need any modifications! 🚀
+## 📈 GitHub Stats
+
+![Pranavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavik123&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavik123&layout=compact&theme=tokyonight)
+
+---
+
+## 💬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavik/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/pranavik123)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pranavikamavarapu.cs@gmail.com)
+
+---
+
+🔍 *Always curious. Always building.*  
